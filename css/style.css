@@ -328,4 +328,7 @@ section {
     #hamburger {
         display: block;
     }
+    a.f{
+        display: none; 
+    }
 }
